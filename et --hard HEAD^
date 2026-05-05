@@ -1,0 +1,35 @@
+[33mcommit b1919fb1e014c59fb68d885758f1d81667fd3429[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 清秋未阳 <158457427+QQWY205656@users.noreply.github.com>
+Date:   Tue May 5 12:01:21 2026 +0800
+
+    update
+
+[33mcommit fd9f83925313cf0edc6b031e3bd5b3c467ebf46d[m
+Author: 清秋未阳 <158457427+QQWY205656@users.noreply.github.com>
+Date:   Sun Mar 29 20:14:07 2026 +0800
+
+    about transformer
+
+[33mcommit 306cb0c092874443d71847792fdf785de0361824[m
+Author: 清秋未阳 <158457427+QQWY205656@users.noreply.github.com>
+Date:   Sun Mar 29 20:09:07 2026 +0800
+
+    Add initial content to Transformer file
+
+[33mcommit b855984ea84468008f3d8121386bcb2b7b256689[m
+Author: 清秋未阳 <158457427+QQWY205656@users.noreply.github.com>
+Date:   Sun Mar 22 20:54:05 2026 +0800
+
+    feat: 整理文件至 LSTM 文件夹
+
+[33mcommit 1865bf9d6b9cb7250a6f1ae4ea1b9810db449dcf[m
+Author: 清秋未阳 <158457427+QQWY205656@users.noreply.github.com>
+Date:   Sun Mar 22 20:43:54 2026 +0800
+
+    Add empty temp.md file
+
+[33mcommit b1138bbf4263f7f3f8d8b645c19c89edaa3a2767[m
+Author: 清秋未阳 <158457427+QQWY205656@users.noreply.github.com>
+Date:   Sun Mar 22 20:38:46 2026 +0800
+
+    first commit: 深度学习模型与笔记初始化
